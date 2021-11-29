@@ -1,0 +1,9 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/sb_psql
+    username: sbdb
+    password: sbp@$$w0rd
+    pool-size: 5
+
+server:
+  port: 8082
